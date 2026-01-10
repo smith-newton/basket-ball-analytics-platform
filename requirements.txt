@@ -1,0 +1,14 @@
+streamlit
+ultralytics
+opencv-python-headless
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+Pillow
+torch
+torchvision
+plotly
+# Note: torchreid is best installed via git:
+# pip install git+https://github.com/KaiyangZhou/deep-person-reid.git
