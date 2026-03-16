@@ -104,25 +104,6 @@ This repository currently includes:
 
 **Smith Newton K**
 
-## License
-
-This project is open source and available under the MIT License.
-
-````
-
-A better version for placements is this shorter, more professional one:
-
-```md
-# Basketball Analytics Platform
-
-Developed a basketball analytics platform using Python and YOLO-based computer vision to process match videos, detect players and game objects, and generate analyzed video outputs.
-
-## Key Features
-- Basketball video analysis using deep learning
-- Object detection with YOLO
-- Processed output video generation
-- Python-based modular implementation
-
 ## Files
 - `app.py` – main application
 - `yolov11.py` – YOLO-based detection module
