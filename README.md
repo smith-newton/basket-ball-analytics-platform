@@ -1,8 +1,4 @@
-Absolutely — here’s a clean **README.md** you can use for your GitHub project based on the repo structure I can see (`app.py`, `yolov11.py`, `best11.pt`, `processed_output.mp4`, `requirements.txt`, `src/`). The repo currently has no description in GitHub, and it appears to be a Python-based basketball analytics project using a YOLO model file. ([GitHub][1])
 
-Copy this into your `README.md`:
-
-````md
 # Basketball Analytics Platform
 
 A computer vision-based basketball analytics project built with Python and YOLO for detecting and analyzing basketball gameplay from video input.
